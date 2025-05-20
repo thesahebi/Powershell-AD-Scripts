@@ -1,2 +1,19 @@
-# Powershell-AD-Scripts
-PowerShell scripts for managing Active Directory users — create, delete, reset password, and more.
+# Active Directory User Management Scripts
+
+A collection of PowerShell scripts I use to manage Active Directory users in real-world environments.
+
+## 🔧 Scripts
+
+- `create-user.ps1` — Create a new user with OU, group, and profile settings.
+- `delete-user.ps1` — Remove a user from AD safely.
+- `reset-password.ps1` — Reset a user password and force password change on next login.
+
+## 📦 Requirements
+
+- PowerShell (5.1+)
+- ActiveDirectory module
+- Admin privileges
+
+## 🚀 Usage
+
+```powershell
