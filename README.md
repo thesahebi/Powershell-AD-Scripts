@@ -18,4 +18,7 @@ A collection of PowerShell scripts I use to manage Active Directory users in rea
 ## Usage
 
 ```powershell
-.\filepath\filename.ps1
+.\Create-user.ps1
+.\Delete-user.ps1
+.\Find-manager.ps1
+.\Find-manager.ps1
