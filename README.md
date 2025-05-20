@@ -18,3 +18,4 @@ A collection of PowerShell scripts I use to manage Active Directory users in rea
 ## Usage
 
 ```powershell
+.\filepath\filename.ps1
